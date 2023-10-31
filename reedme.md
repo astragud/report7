@@ -1,2 +1,2 @@
 #Tree(Heap sort)
-![](./img/result7.png)
+![](./result7.png)
